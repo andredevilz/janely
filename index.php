@@ -31,7 +31,7 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
     .thumb{width:46px;height:34px;object-fit:contain;border:1px solid var(--border-2);border-radius:6px;background:#fff}
     .filebtn{white-space:nowrap}
   </style>
-</head>
+</head> 
 <body>
   <!-- Barra topo: quem está logado + logout -->
   <div style="position:fixed;right:14px;top:12px ;display:flex;gap:10px;align-items:center;z-index:10">
@@ -40,12 +40,12 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
     </span>
     <form action="/api/logout.php" method="post" style="margin:0">
       <button class="btn" style="padding:6px 10px;font-size:12px">Terminar sessão</button>
-    </form> 
+    </form>  
   </div> 
 
-  <div class="titlebar"><h1>sdadas de janelas de alumínio com rutura térmica</h1></div>
+  <div class="titlebar"><h1>123123 de janelas de alumínio com rutura térmica</h1></div>
 
-  <div class="wrap">
+  <div class="wrap"> 
     <!-- TABS -->
     <div class="tabsbar"><div class="tabs" id="tabs"></div></div>
 
@@ -57,7 +57,7 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
           <div class="hd-actions">
             <button class="btn" id="editPricesBtn">Editar preços</button>
           </div>
-        </div>
+        </div> 
 
         <div class="section">
           <!-- Tipo -->
