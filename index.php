@@ -5,7 +5,7 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
 ?>
 <!doctype html>
 <html lang="pt-PT">
-<headzz>
+<head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Calculadora de janelas</title>
@@ -43,7 +43,7 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
     </form>
   </div>
 
-  <div class="titlebar"><h1>Calculadora de janelas de alumínio com rutura térmica</h1></div>
+  <div class="titlebar"><h1>ZZ de janelas de alumínio com rutura térmica</h1></div>
 
   <div class="wrap">
     <!-- TABS -->
