@@ -34,16 +34,16 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
 </head>
 <body>
   <!-- Barra topo: quem está logado + logout -->
-  <div style="position:fixed;right:14px;top:12px;display:flex;gap:10px;align-items:center;z-index:10">
+  <div style="position:fixed;right:14px;top:12px ;display:flex;gap:10px;align-items:center;z-index:10">
     <span style="font:600 13px Inter,system-ui,Arial;color:#475569">
       <?php echo htmlspecialchars($_SESSION['email'] ?? 'Sessão iniciada'); ?>
     </span>
-    <form action="/pvc_demo/api/logout.php" method="post" style="margin:0">
+    <form action="/api/logout.php" method="post" style="margin:0">
       <button class="btn" style="padding:6px 10px;font-size:12px">Terminar sessão</button>
-    </form>
-  </div>
+    </form> 
+  </div> 
 
-  <div class="titlebar"><h1>hihi de janelas de alumínio com rutura térmica</h1></div>
+  <div class="titlebar"><h1>sdadas de janelas de alumínio com rutura térmica</h1></div>
 
   <div class="wrap">
     <!-- TABS -->
