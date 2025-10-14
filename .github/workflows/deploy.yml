@@ -1,0 +1,31 @@
+name: Deploy via FTP (cPanel)
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload to cPanel via FTPS
+        uses: SamKirkland/FTP-Deploy-Action@v4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ secrets.FTP_PORT || 21 }}
+          protocol: ftps
+          local-dir: ./
+          server-dir: public_html/
+          exclude: |
+            **/.git**
+            **/.github/**
+            node_modules/**
+            vendor/**
+            storage/**
+            wp-content/uploads/**
+            **/.env
+            **/*.env
