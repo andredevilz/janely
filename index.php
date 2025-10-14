@@ -70,7 +70,7 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
             <h3>Selecionar sistema <span style="color:#b42318">*</span></h3>
             <p class="note">Escolha o perfil para a sua janela</p>
             <div id="systemsGrid" class="grid"></div>
-          </div>
+          </div> 
 
           <!-- Limites -->
           <div id="limitsHint" class="hint" style="margin-top:14px">Os limites de medida serão mostrados aqui…</div>
