@@ -1,19 +1,35 @@
-name: Upload to cPanel via FTP
-  uses: SamKirkland/FTP-Deploy-Action@v4
-  with:
-    server: ${{ secrets.FTP_SERVER }}
-    username: ${{ secrets.FTP_USERNAME }}
-    password: ${{ secrets.FTP_PASSWORD }}
-    port: ${{ secrets.FTP_PORT || 21 }}
-    protocol: ftp        # <— MUDAR de ftps para ftp
-    local-dir: ./
-    server-dir: public_html/
-    exclude: |
-      **/.git**
-      **/.github/**
-      node_modules/**
-      vendor/**
-      storage/**
-      wp-content/uploads/**
-      **/.env
-      **/*.env
+name: Deploy via FTP (cPanel)
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: {}   # permite correr manualmente em Actions > Run workflow
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload to cPanel via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: ${{ secrets.FTP_PORT || 21 }}
+          protocol: ftp
+          passive: true               # mais compatível com cPanel
+          local-dir: ./
+          server-dir: public_html/    # ver alternativas abaixo se falhar
+          exclude: |
+            **/.git**
+            **/.github/**
+            node_modules/**
+            vendor/**
+            storage/**
+            wp-content/uploads/**
+            **/.env
+            **/*.env
+          log-level: verbose
