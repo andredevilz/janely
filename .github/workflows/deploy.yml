@@ -3,7 +3,7 @@ name: Deploy via FTP (cPanel)
 on:
   push:
     branches: [ "main" ]
-  workflow_dispatch: {}   # permite correr manualmente em Actions > Run workflow
+  workflow_dispatch: {}
 
 jobs:
   deploy:
@@ -19,10 +19,10 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           port: ${{ secrets.FTP_PORT || 21 }}
-          protocol: ftp
-          passive: true               # mais compatível com cPanel
+          protocol: ftp           # usa ftp; muda para ftps quando possível
+          passive: true
           local-dir: ./
-          server-dir: public_html/    # ver alternativas abaixo se falhar
+          server-dir: /public_html/
           exclude: |
             **/.git**
             **/.github/**
