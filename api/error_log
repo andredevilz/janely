@@ -1,0 +1,306 @@
+[14-Oct-2025 12:32:15 UTC] [login.php] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+[14-Oct-2025 15:17:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 15:18:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 15:18:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 15:19:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 15:19:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 15:19:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 15:20:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 16:40:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 16:40:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 16:41:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 16:41:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 16:43:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:05:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:10:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:10:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:10:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:12:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:12:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:12:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:12:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:13:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:14:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:14:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:14:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:14:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:14:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:15:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:15:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:15:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:16:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:16:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:20:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:26:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:26:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:27:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:27:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 17:28:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:04:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:04:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:05:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:05:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:05:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:05:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:05:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:05:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:07:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:07:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:08:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:08:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:08:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:08:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:08:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:09:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:10:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:15:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:15:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:17:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:17:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:17:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:17:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
+[14-Oct-2025 18:19:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'json_state' in 'field list' in /home/janely/public_html/api/state-get.php:13
+Stack trace:
+#0 /home/janely/public_html/api/state-get.php(13): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/janely/public_html/api/state-get.php on line 13
