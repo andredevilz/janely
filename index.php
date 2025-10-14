@@ -5,7 +5,7 @@ require_login_page(); // _session.php já faz session_start com os parâmetros c
 ?>
 <!doctype html>
 <html lang="pt-PT">
-<head>
+<headz>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Calculadora de janelas</title>
