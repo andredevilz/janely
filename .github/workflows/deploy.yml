@@ -26,6 +26,8 @@ jobs:
           exclude: |
             **/.git**
             **/.github/**
+            **/config.local.php
+            **/config.prod.php
             node_modules/**
             vendor/**
             storage/**
